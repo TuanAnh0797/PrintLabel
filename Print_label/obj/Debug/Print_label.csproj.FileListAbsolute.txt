@@ -1,0 +1,75 @@
+C:\TA\print_label\Print_label\Print_label\bin\Debug\Print_label.exe.config
+C:\TA\print_label\Print_label\Print_label\bin\Debug\Print_label.exe
+C:\TA\print_label\Print_label\Print_label\bin\Debug\Print_label.pdb
+C:\TA\print_label\Print_label\Print_label\bin\Debug\Newtonsoft.Json.dll
+C:\TA\print_label\Print_label\Print_label\bin\Debug\Newtonsoft.Json.xml
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.csproj.AssemblyReference.cache
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.csproj.SuggestedBindingRedirects.cache
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.Form1.resources
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.Properties.Resources.resources
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.csproj.GenerateResource.cache
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.csproj.CoreCompileInputs.cache
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.csproj.CopyComplete
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.exe
+C:\TA\print_label\Print_label\Print_label\obj\Debug\Print_label.pdb
+C:\TA\print_label\Print_label\Print_label\bin\Debug\config.json
+C:\Users\pc\Desktop\Print_label\Print_label\bin\Debug\config.json
+C:\Users\pc\Desktop\Print_label\Print_label\bin\Debug\Print_label.exe.config
+C:\Users\pc\Desktop\Print_label\Print_label\bin\Debug\Print_label.exe
+C:\Users\pc\Desktop\Print_label\Print_label\bin\Debug\Print_label.pdb
+C:\Users\pc\Desktop\Print_label\Print_label\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Print_label\Print_label\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.Form1.resources
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.Properties.Resources.resources
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.CopyComplete
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.exe
+C:\Users\pc\Desktop\Print_label\Print_label\obj\Debug\Print_label.pdb
+C:\Users\TA\Desktop\Print_label\Print_label\bin\Debug\config.json
+C:\Users\TA\Desktop\Print_label\Print_label\bin\Debug\Print_label.exe.config
+C:\Users\TA\Desktop\Print_label\Print_label\bin\Debug\Print_label.exe
+C:\Users\TA\Desktop\Print_label\Print_label\bin\Debug\Print_label.pdb
+C:\Users\TA\Desktop\Print_label\Print_label\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TA\Desktop\Print_label\Print_label\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.AssemblyReference.cache
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.SuggestedBindingRedirects.cache
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.Form1.resources
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.Properties.Resources.resources
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.GenerateResource.cache
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.CoreCompileInputs.cache
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.CopyComplete
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.exe
+C:\Users\TA\Desktop\Print_label\Print_label\obj\Debug\Print_label.pdb
+C:\Users\DAT\Desktop\Print_label\Print_label\bin\Debug\config.json
+C:\Users\DAT\Desktop\Print_label\Print_label\bin\Debug\Print_label.exe.config
+C:\Users\DAT\Desktop\Print_label\Print_label\bin\Debug\Print_label.exe
+C:\Users\DAT\Desktop\Print_label\Print_label\bin\Debug\Print_label.pdb
+C:\Users\DAT\Desktop\Print_label\Print_label\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DAT\Desktop\Print_label\Print_label\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.AssemblyReference.cache
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.SuggestedBindingRedirects.cache
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.Form1.resources
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.Properties.Resources.resources
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.GenerateResource.cache
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.CoreCompileInputs.cache
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.csproj.CopyComplete
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.exe
+C:\Users\DAT\Desktop\Print_label\Print_label\obj\Debug\Print_label.pdb
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\bin\Debug\config.json
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\bin\Debug\Print_label.exe.config
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\bin\Debug\Print_label.exe
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\bin\Debug\Print_label.pdb
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.csproj.AssemblyReference.cache
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.csproj.SuggestedBindingRedirects.cache
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.Form1.resources
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.Properties.Resources.resources
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.csproj.GenerateResource.cache
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.csproj.CoreCompileInputs.cache
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.csproj.CopyComplete
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.exe
+C:\Users\TA\Desktop\New folder\Print_label\Print_label\obj\Debug\Print_label.pdb
